@@ -1,0 +1,48 @@
+body {
+ background-color: rgba(0, 0, 0, 0.95);
+ color: rgba(255, 255, 255, 1);
+}
+
+/* nav bar */
+nav {
+ width: 25%;
+ height: 15vh;
+ margin: 12.5vh 0 12.5vh 5px;
+ background-color: rgba(0, 0, 0, 1);
+ border-radius: 15px;
+}
+
+ul {
+ list-style-type: none;
+}
+
+li {
+ float: left;
+ margin-top: 15px;
+ width: 90%;
+ background-color: rgba(40, 1, 255, 1);
+ border-radius: 15px;
+ padding: 20px;
+}
+a {
+ text-decoration: none;
+ color: rgba(255, 255, 255, 1);
+}
+
+
+/* image */
+img {
+ float: center;
+ height: 350px;
+ border-radius: 50%;
+}
+
+.left {
+ float: left;
+ width: 35%
+}
+
+.right {
+ float: right;
+ width: 65%;
+}
